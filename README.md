@@ -1,4 +1,4 @@
-# TBA
+# Introduction to digital trace data: Quality, ethics, and analysis
 
-See the website [here](https://whywevax.github.io)
+See the website [here](https://digitaltracedata.github.io)
 
