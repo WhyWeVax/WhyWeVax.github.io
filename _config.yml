@@ -4,9 +4,6 @@ description: Why We Vax? placeholder
 show_downloads: false
 theme: jekyll-theme-minimal
 
-baseurl: "/WhyWeVax.github.io" # Repository name
-url: "https://whywevax.github.io"
-
 exclude:
   - LICENSE
   - README.md
